@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Nov  3 02:01:23 2026
+# Process ID         : 61856
+# Current directory  : C:/Users/dusan/Desktop/zynq_test/zynq_test_project/zynq_test_project.runs/zynq_test_system_axi_gpio_0_0_synth_1
+# Command line       : vivado.exe -log zynq_test_system_axi_gpio_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zynq_test_system_axi_gpio_0_0.tcl
+# Log file           : C:/Users/dusan/Desktop/zynq_test/zynq_test_project/zynq_test_project.runs/zynq_test_system_axi_gpio_0_0_synth_1/zynq_test_system_axi_gpio_0_0.vds
+# Journal file       : C:/Users/dusan/Desktop/zynq_test/zynq_test_project/zynq_test_project.runs/zynq_test_system_axi_gpio_0_0_synth_1\vivado.jou
+# Running On         : DESKTOP-9D14NSV
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 7600X 6-Core Processor             
+# CPU Frequency      : 4691 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 33409 MB
+# Swap memory        : 26843 MB
+# Total Virtual      : 60253 MB
+# Available Virtual  : 10913 MB
+#-----------------------------------------------------------
+source zynq_test_system_axi_gpio_0_0.tcl -notrace
